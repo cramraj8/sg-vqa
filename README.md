@@ -1,4 +1,3 @@
 # sg-vqa
 
-This vqa.ipynb notebook has all components to train & validate simple VQA model.
-And this framework uses seq-to-seq modelling as encoder-decoder structure to predict the answer sequence.
+This repo includes our work for SG-based VQA project. The base notebook has the basic building blocks of the model. The other 3 notebooks include the ablations that we conducted on our model.
